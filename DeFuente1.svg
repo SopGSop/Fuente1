@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Sat Aug 29 05:58:56 2020
+ By Aleksey,,,
+Copyright (c) 2020, ND
+</metadata>
+<defs>
+<font id="Untitled1" horiz-adv-x="2048" >
+  <font-face 
+    font-family="Untitled1"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    cap-height="1638"
+    bbox="-0.680328 -410 2048 1638"
+    underline-thickness="102"
+    underline-position="-307"
+    unicode-range="U+0041-0041"
+  />
+<missing-glyph 
+d="M102 0v1092h1844v-1092h-1844zM205 102h1638v887h-1638v-887z" />
+    <glyph glyph-name=".notdef" 
+d="M102 0v1092h1844v-1092h-1844zM205 102h1638v887h-1638v-887z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="A" unicode="A" 
+d="M1748 1338q145 -145 222.5 -332t77.5 -392t-77.5 -392t-222.5 -332t-332 -222.5t-392 -77.5q-259 0 -485 122q-172 -119 -368 -119q-27 0 -73 6q-31 4 -52.5 26t-26.5 54q-5 31 9.5 59t42.5 41q92 45 161 186q-164 199 -213 449.5t24 495.5t257 429q145 145 331.5 222
+t392.5 77q205 0 392 -77.5t332 -222.5zM1666 -28q130 130 198 300t68 342t-68 342t-198 301q-129 129 -294.5 197.5t-347.5 68.5t-347.5 -68.5t-294.5 -197.5q-167 -167 -231 -390.5t-13.5 -450t206.5 -403.5q24 -28 10 -61q-72 -166 -176 -243q173 3 321 118q15 12 36 12
+q15 0 29 -8q215 -125 460 -125q182 0 347.5 68.5t294.5 197.5zM1284 1083q144 0 245 -101q101 -103 101 -246q0 -142 -102 -244l-464 -463q-17 -17 -41 -17q-22 0 -40 18l-463 462q-102 104 -102 245q0 143 102 245q101 101 244 101q144 0 245 -101l15 -15l15 15
+q101 101 245 101zM1446 573q68 68 68 164t-67 163q-68 68 -163 68q-96 0 -164 -68l-55 -55q-17 -17 -41 -17t-41 17l-56 55q-68 68 -163 68q-96 0 -163 -67t-67 -163q0 -97 67 -164l422 -422z" />
+  </font>
+</defs></svg>
